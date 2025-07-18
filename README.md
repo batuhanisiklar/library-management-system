@@ -40,7 +40,7 @@ You can add, remove, search, and display books on shelves, and simulate selling 
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/batuhanisiklar/library-management-system.git
 cd library-management-system
 ```
 
